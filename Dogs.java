@@ -14,10 +14,6 @@ public class Dogs {
 		String string = "";
 		String gender = "";
 		
-		DogBark bark = new DogBark();
-		DogBreed breed = new DogBreed();
-		DogColor color = new DogColor();
-		
 		System.out.println("Welcome! Design your new dog!\n");
 		
 		while (correctGender == false) {
